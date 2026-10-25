@@ -1,0 +1,3 @@
+# No external dependencies required.
+# The application uses the built-in 'tkinter' library for the GUI.
+# Standard Python 3.x environment is sufficient.
