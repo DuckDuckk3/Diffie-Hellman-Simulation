@@ -99,7 +99,7 @@ lbl_shared_A = ttk.Label(frame_alice, text="?", font=("Arial", 11, "bold"), fore
 lbl_shared_A.grid(row=2, column=1, sticky="w", padx=10, pady=10)
 
 # Khung B
-frame_bob = ttk.LabelFrame(frame_users, text=" Ворис (receiver) ")
+frame_bob = ttk.LabelFrame(frame_users, text=" Борис (receiver) ")
 frame_bob.pack(side=tk.RIGHT, fill=tk.BOTH, expand=True, padx=(5, 0))
 
 ttk.Label(frame_bob, text="Private key (b):").grid(row=0, column=0, sticky="w", padx=10, pady=10)
